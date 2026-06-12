@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://livmakers.co.jp/sitemap.xml
