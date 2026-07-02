@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://livmakers.co.jp/sitemap.xml
+Sitemap: https://livmakers.co.jp/guide/sitemap.xml
